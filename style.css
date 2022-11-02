@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 .card-component {
     border-radius: 1rem;
     border: 1px solid rgb(235 235 235);
@@ -13,6 +14,7 @@
     color: #333333;
     font-family:Arial, Helvetica, sans-serif;
 }
+
 
 .free {
     padding-top: 0.7rem;
@@ -27,12 +29,14 @@
     font-size: 20px;
 }
 
+
 .main p:nth-of-type(2) {
     margin-top: 8rem;
     margin-bottom: 4rem;
     font-size: 3.5rem;
     font-weight: 700;
 }
+
 
 .btn {
     text-align: center;
@@ -45,11 +49,13 @@
     font-size: 1rem;
 }
 
+
 .main p:nth-of-type(3) {
 padding: 2rem 0 1rem 0;
 font-weight: 600;
 font-size: 1rem;
 }
+
 
 .package {
     display: flex;
@@ -58,6 +64,7 @@ font-size: 1rem;
     padding-top: 0.3rem;
     margin-left: 0.6rem;
 }
+
 
 .package p:nth-of-type(1) {
     margin-right: 0.7rem;
